@@ -1,0 +1,11 @@
+D:\ATM PROJECT\FinalPlayFair\FinalPlayFair\bin\Debug\FinalPlayFair.exe.config
+D:\ATM PROJECT\FinalPlayFair\FinalPlayFair\bin\Debug\FinalPlayFair.exe
+D:\ATM PROJECT\FinalPlayFair\FinalPlayFair\bin\Debug\FinalPlayFair.pdb
+D:\ATM PROJECT\FinalPlayFair\FinalPlayFair\obj\Debug\FinalPlayFair.csproj.AssemblyReference.cache
+D:\ATM PROJECT\FinalPlayFair\FinalPlayFair\obj\Debug\FinalPlayFair.csproj.SuggestedBindingRedirects.cache
+D:\ATM PROJECT\FinalPlayFair\FinalPlayFair\obj\Debug\FinalPlayFair.PlayfairForm.resources
+D:\ATM PROJECT\FinalPlayFair\FinalPlayFair\obj\Debug\FinalPlayFair.Properties.Resources.resources
+D:\ATM PROJECT\FinalPlayFair\FinalPlayFair\obj\Debug\FinalPlayFair.csproj.GenerateResource.cache
+D:\ATM PROJECT\FinalPlayFair\FinalPlayFair\obj\Debug\FinalPlayFair.csproj.CoreCompileInputs.cache
+D:\ATM PROJECT\FinalPlayFair\FinalPlayFair\obj\Debug\FinalPlayFair.exe
+D:\ATM PROJECT\FinalPlayFair\FinalPlayFair\obj\Debug\FinalPlayFair.pdb
